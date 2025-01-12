@@ -277,282 +277,6 @@ let item ={
       "brand": "1"
     },
     {
-      "name": "おとめマーガレット",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P01/img_codination_1_thumb.jpg?p=2312081000",
-      "Rare": "3",
-      "brand": "1"
-    },
-    {
-      "name": "おとめマーガレットブルー",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P01/img_codination_2_thumb.jpg?p=2312081000",
-      "Rare": "3",
-      "brand": "1"
-    },
-    {
-      "name": "ハートバルーン",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P01/img_codination_5_thumb.jpg?p=2312081000",
-      "Rare": "2",
-      "brand": "1"
-    },
-    {
-      "name": "ハートバルーンオレンジ",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P01/img_codination_6_thumb.jpg?p=2312081000",
-      "Rare": "2",
-      "brand": "1"
-    },
-    {
-      "name": "ハロウィンフリル",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P01/img_codination_7_thumb.jpg?p=2312081000",
-      "Rare": "2",
-      "brand": "1"
-    },
-    {
-      "name": "ハロウィンフリルブルー",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P01/img_codination_8_thumb.jpg?p=2312081000",
-      "Rare": "2",
-      "brand": "1"
-    },
-    {
-      "name": "フルーツパフェ",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P01/img_codination_9_thumb.jpg?p=2312081000",
-      "Rare": "2",
-      "brand": "1"
-    },
-    {
-      "name": "フルーツパフェピンク",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P01/img_codination_10_thumb.jpg?p=2312081000",
-      "Rare": "2",
-      "brand": "1"
-    },
-    {
-      "name": "コスメティック",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P01/img_codination_15_thumb.jpg?p=2312081000",
-      "Rare": "1",
-      "brand": "1"
-    },
-    {
-      "name": "ガーリーデニム",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P01/img_codination_19_thumb.jpg?p=2312081000",
-      "Rare": "1",
-      "brand": "1"
-    },
-    {
-      "name": "げんきチェック",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P01/img_codination_20_thumb.jpg?p=2312081000",
-      "Rare": "1",
-      "brand": "1"
-    },
-    {
-      "name": "プチパール",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P01/img_codination_21_thumb.jpg?p=2312081000",
-      "Rare": "1",
-      "brand": "1"
-    },
-    {
-      "name": "ギンガムジャンパー",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P01/img_codination_22_thumb.jpg?p=2312081000",
-      "Rare": "1",
-      "brand": "1"
-    },
-    {
-      "name": "フレッシュフラワー",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P01/img_codination_23_thumb.jpg?p=2312081000",
-      "Rare": "1",
-      "brand": "1"
-    },
-    {
-      "name": "げんきチェックグリーン",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P01/img_codination_31_thumb.jpg?p=2312081000",
-      "Rare": "1",
-      "brand": "1"
-    },
-    {
-      "name": "ギンガムジャンパーピンク",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P01/img_codination_32_thumb.jpg?p=2312081000",
-      "Rare": "1",
-      "brand": "1"
-    },
-    {
-      "name": "プチパールベージュ",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P01/img_codination_34_thumb.jpg?p=2312081000",
-      "Rare": "1",
-      "brand": "1"
-    },
-    {
-      "name": "ガーリーデニムスカイ",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P01/img_codination_39_thumb.jpg?p=2312081000",
-      "Rare": "1",
-      "brand": "1"
-    },
-    {
-      "name": "フレッシュフラワーピンク",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P01/img_codination_37_thumb.jpg?p=2312081000",
-      "Rare": "1",
-      "brand": "1"
-    },
-    {
-      "name": "フルーツパフェパープル",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P01/img_codination_40_thumb.jpg?p=2312081000",
-      "Rare": "2",
-      "brand": "1"
-    },
-    {
-      "name": "ハートバルーンキラキラ",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P01/img_codination_45_thumb.jpg?p=2312081000",
-      "Rare": "2",
-      "brand": "1"
-    },
-    {
-      "name": "ハートバルーンフワフワ",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P01/img_codination_46_thumb.jpg?p=2312081000",
-      "Rare": "2",
-      "brand": "1"
-    },
-    {
-      "name": "ハートバルーンキラフワ",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P01/img_codination_47_thumb.jpg?p=2312081000",
-      "Rare": "2",
-      "brand": "1"
-    },
-    {
-      "name": "おとめマーガレットイエロー",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P01/img_codination_50_thumb.jpg?p=2312081000",
-      "Rare": "3",
-      "brand": "1"
-    },
-    {
-      "name": "コスメティックオレンジ",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P01/img_codination_61_thumb.jpg?p=2312081000",
-      "Rare": "1",
-      "brand": "1"
-    },
-    {
-      "name": "ギンガムジャンパーイエロー",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P01/img_codination_53_thumb.jpg?p=2312081000",
-      "Rare": "1",
-      "brand": "1"
-    },
-    {
-      "name": "ガーリーデニムパープル",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P01/img_codination_55_thumb.jpg?p=2312081000",
-      "Rare": "1",
-      "brand": "1"
-    },
-    {
-      "name": "フレッシュフラワーオレンジ",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P01/img_codination_58_thumb.jpg?p=2312081000",
-      "Rare": "1",
-      "brand": "1"
-    },
-    {
-      "name": "マナマナみゃむ",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P02/img_codination_3_thumb.jpg?p=2312081000",
-      "Rare": "3",
-      "brand": "1"
-    },
-    {
-      "name": "マナマナみゃむピンク",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P02/img_codination_4_thumb.jpg?p=2312081000",
-      "Rare": "3",
-      "brand": "1"
-    },
-    {
-      "name": "クリスマスベル",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P02/img_codination_11_thumb.jpg?p=2312081000",
-      "Rare": "2",
-      "brand": "1"
-    },
-    {
-      "name": "クリスマスベルグリーン",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P02/img_codination_12_thumb.jpg?p=2312081000",
-      "Rare": "2",
-      "brand": "1"
-    },
-    {
-      "name": "パステルマカロン",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P02/img_codination_13_thumb.jpg?p=2312081000",
-      "Rare": "2",
-      "brand": "1"
-    },
-    {
-      "name": "パステルマカロンオレンジ",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P02/img_codination_14_thumb.jpg?p=2312081000",
-      "Rare": "2",
-      "brand": "1"
-    },
-    {
-      "name": "レトロガール",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P02/img_codination_19_thumb.jpg?p=2312081000",
-      "Rare": "1",
-      "brand": "1"
-    },
-    {
-      "name": "チェックセットアップ",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P02/img_codination_20_thumb.jpg?p=2312081000",
-      "Rare": "1",
-      "brand": "1"
-    },
-    {
-      "name": "チェックセットスマート",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P02/img_codination_21_thumb.jpg?p=2312081000",
-      "Rare": "1",
-      "brand": "1"
-    },
-    {
-      "name": "くまくまパーク",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P02/img_codination_26_thumb.jpg?p=2312081000",
-      "Rare": "1",
-      "brand": "1"
-    },
-    {
-      "name": "にゃんこサスペンダー",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P02/img_codination_27_thumb.jpg?p=2312081000",
-      "Rare": "1",
-      "brand": "1"
-    },
-    {
-      "name": "クリスマスベルピンク",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P02/img_codination_32_thumb.jpg?p=2312081000",
-      "Rare": "2",
-      "brand": "1"
-    },
-    {
-      "name": "チェックセットアップピンク",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P02/img_codination_33_thumb.jpg?p=2312081000",
-      "Rare": "1",
-      "brand": "1"
-    },
-    {
-      "name": "レトロガールピンク",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P02/img_codination_39_thumb.jpg?p=2312081000",
-      "Rare": "1",
-      "brand": "1"
-    },
-    {
-      "name": "クリスマスベルブルー",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P02/img_codination_42_thumb.jpg?p=2312081000",
-      "Rare": "2",
-      "brand": "1"
-    },
-    {
-      "name": "マナマナみゃむイエロー",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P02/img_codination_43_thumb.jpg?p=2312081000",
-      "Rare": "2",
-      "brand": "1"
-    },
-    {
-      "name": "チェックセットアップブラウン",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P02/img_codination_46_thumb.jpg?p=2312081000",
-      "Rare": "1",
-      "brand": "1"
-    },
-    {
-      "name": "ギンガムジャンパーグリーン",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P02/img_codination_48_thumb.jpg?p=2312081000",
-      "Rare": "1",
-      "brand": "1"
-    },
-    {
       "name": "ハートフェザー",
       "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P03/img_codination_3_thumb.jpg?p=2312081000",
       "Rare": "3",
@@ -763,12 +487,6 @@ let item ={
       "brand": "1"
     },
     {
-      "name": "おとめマーガレットパープル",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P05/img_codination_65_thumb.jpg?p=2312081000",
-      "Rare": "3",
-      "brand": "1"
-    },
-    {
       "name": "ラブエレメンツヘブンズ",
       "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P06/img_codination_71_thumb.jpg?p=2312081000",
       "Rare": "5",
@@ -832,12 +550,6 @@ let item ={
       "name": "メモリージュエルパール",
       "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P06/img_codination_42_thumb.jpg?p=2312081000",
       "Rare": "3",
-      "brand": "1"
-    },
-    {
-      "name": "チェックセットアップ",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P06/img_codination_54_thumb.jpg?p=2312081000",
-      "Rare": "1",
       "brand": "1"
     },
     {
@@ -1006,18 +718,6 @@ let item ={
       "name": "ベリーミルフィーユショコラティエ",
       "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/2P01/img_codination_114_thumb.jpg?p=2312081000",
       "Rare": "2",
-      "brand": "1"
-    },
-    {
-      "name": "チェリーキルティングセットアップピンク",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/2P01/img_codination_138_thumb.jpg?p=2312081000",
-      "Rare": "1",
-      "brand": "1"
-    },
-    {
-      "name": "チェリーキルティングセットアップブラック",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/2P01/img_codination_139_thumb.jpg?p=2312081000",
-      "Rare": "1",
       "brand": "1"
     },
     {
@@ -1279,12 +979,6 @@ let item ={
       "brand": "1"
     },
     {
-      "name": "チェックセットアップピンク",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/2P07/img_codination_15_thumb.jpg?p=2312081000",
-      "Rare": "1",
-      "brand": "1"
-    },
-    {
       "name": "テクノマジカルみゃむ",
       "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/2P07/img_codination_1_thumb.jpg?p=2312081000",
       "Rare": "6",
@@ -1369,66 +1063,6 @@ let item ={
       "brand": "1"
     },
     {
-      "name": "ラブエレメンツ",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_68_thumb.jpg?p=2310171000",
-      "Rare": "4",
-      "brand": "1"
-    },
-    {
-      "name": "おとめマーガレット",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_69_thumb.jpg?p=2310171000",
-      "Rare": "3",
-      "brand": "1"
-    },
-    {
-      "name": "ハートフェザー",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_70_thumb.jpg?p=2310171000",
-      "Rare": "3",
-      "brand": "1"
-    },
-    {
-      "name": "マナマナみゃむ",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_71_thumb.jpg?p=2310171000",
-      "Rare": "3",
-      "brand": "1"
-    },
-    {
-      "name": "テクノマジカルピンク",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_72_thumb.jpg?p=2310171000",
-      "Rare": "3",
-      "brand": "1"
-    },
-    {
-      "name": "メモリージュエル",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_73_thumb.jpg?p=2310171000",
-      "Rare": "3",
-      "brand": "1"
-    },
-    {
-      "name": "ハートバルーン",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_75_thumb.jpg?p=2310171000",
-      "Rare": "2",
-      "brand": "1"
-    },
-    {
-      "name": "ショコラティエ",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_76_thumb.jpg?p=2310171000",
-      "Rare": "2",
-      "brand": "1"
-    },
-    {
-      "name": "フォーチュンスター",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_77_thumb.jpg?p=2310171000",
-      "Rare": "2",
-      "brand": "1"
-    },
-    {
-      "name": "わたしたちさいこう3150バイブス",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_78_thumb.jpg?p=2310171000",
-      "Rare": "2",
-      "brand": "1"
-    },
-    {
       "name": "クリスマスベルナイト",
       "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_66_thumb.jpg?p=2310171000",
       "Rare": "2",
@@ -1454,168 +1088,6 @@ let item ={
     }
   ],
   "2": [
-    {
-      "name": "スパークスター",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P01/img_codination_3_thumb.jpg?p=2312081000",
-      "Rare": "3",
-      "brand": "2"
-    },
-    {
-      "name": "スパークスターブルー",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P01/img_codination_4_thumb.jpg?p=2312081000",
-      "Rare": "3",
-      "brand": "2"
-    },
-    {
-      "name": "ヒップホップ",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P01/img_codination_11_thumb.jpg?p=2312081000",
-      "Rare": "2",
-      "brand": "2"
-    },
-    {
-      "name": "ヒップホップパープル",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P01/img_codination_12_thumb.jpg?p=2312081000",
-      "Rare": "2",
-      "brand": "2"
-    },
-    {
-      "name": "ネオンチェッカー",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P01/img_codination_13_thumb.jpg?p=2312081000",
-      "Rare": "2",
-      "brand": "2"
-    },
-    {
-      "name": "ネオンチェッカースカイ",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P01/img_codination_14_thumb.jpg?p=2312081000",
-      "Rare": "2",
-      "brand": "2"
-    },
-    {
-      "name": "レースヒーロー",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P01/img_codination_16_thumb.jpg?p=2312081000",
-      "Rare": "1",
-      "brand": "2"
-    },
-    {
-      "name": "アクティブダンス",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P01/img_codination_24_thumb.jpg?p=2312081000",
-      "Rare": "1",
-      "brand": "2"
-    },
-    {
-      "name": "ロックレザー",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P01/img_codination_25_thumb.jpg?p=2312081000",
-      "Rare": "1",
-      "brand": "2"
-    },
-    {
-      "name": "ストリートライン",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P01/img_codination_26_thumb.jpg?p=2312081000",
-      "Rare": "1",
-      "brand": "2"
-    },
-    {
-      "name": "ワッペンデニム",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P01/img_codination_27_thumb.jpg?p=2312081000",
-      "Rare": "1",
-      "brand": "2"
-    },
-    {
-      "name": "ワッペンパーカー",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P01/img_codination_28_thumb.jpg?p=2312081000",
-      "Rare": "1",
-      "brand": "2"
-    },
-    {
-      "name": "ロックレザーグリーン",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P01/img_codination_33_thumb.jpg?p=2312081000",
-      "Rare": "1",
-      "brand": "2"
-    },
-    {
-      "name": "アクティブダンスイエロー",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P01/img_codination_35_thumb.jpg?p=2312081000",
-      "Rare": "1",
-      "brand": "2"
-    },
-    {
-      "name": "ストリートラインピンク",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P01/img_codination_36_thumb.jpg?p=2312081000",
-      "Rare": "1",
-      "brand": "2"
-    },
-    {
-      "name": "ワッペンパーカースカイ",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P01/img_codination_38_thumb.jpg?p=2312081000",
-      "Rare": "1",
-      "brand": "2"
-    },
-    {
-      "name": "ワッペンデニムスカイ",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P01/img_codination_52_thumb.jpg?p=2312081000",
-      "Rare": "1",
-      "brand": "2"
-    },
-    {
-      "name": "ロックレザーレッド",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P01/img_codination_54_thumb.jpg?p=2312081000",
-      "Rare": "1",
-      "brand": "2"
-    },
-    {
-      "name": "ネオンチェッカーピンク",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P01/img_codination_56_thumb.jpg?p=2312081000",
-      "Rare": "2",
-      "brand": "2"
-    },
-    {
-      "name": "レースヒーローパープル",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P01/img_codination_59_thumb.jpg?p=2312081000",
-      "Rare": "1",
-      "brand": "2"
-    },
-    {
-      "name": "フレアエレメンツ",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P02/img_codination_31_thumb.jpg?p=2312081000",
-      "Rare": "4",
-      "brand": "2"
-    },
-    {
-      "name": "ファイティン",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P02/img_codination_15_thumb.jpg?p=2312081000",
-      "Rare": "1",
-      "brand": "2"
-    },
-    {
-      "name": "レオパードダンサー",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P02/img_codination_16_thumb.jpg?p=2312081000",
-      "Rare": "1",
-      "brand": "2"
-    },
-    {
-      "name": "スタイリッシュパーカ",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P02/img_codination_28_thumb.jpg?p=2312081000",
-      "Rare": "1",
-      "brand": "2"
-    },
-    {
-      "name": "モッズコート",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P02/img_codination_29_thumb.jpg?p=2312081000",
-      "Rare": "1",
-      "brand": "2"
-    },
-    {
-      "name": "スタイリッシュパーカオレンジ",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P02/img_codination_38_thumb.jpg?p=2312081000",
-      "Rare": "1",
-      "brand": "2"
-    },
-    {
-      "name": "ストリートライングリーン",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P02/img_codination_47_thumb.jpg?p=2312081000",
-      "Rare": "1",
-      "brand": "2"
-    },
     {
       "name": "スパークスター",
       "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P01/img_codination_3_thumb.jpg?p=2312081000",
@@ -2265,60 +1737,6 @@ let item ={
       "brand": "2"
     },
     {
-      "name": "フレアエレメンツ",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_80_thumb.jpg?p=2310171000",
-      "Rare": "4",
-      "brand": "2"
-    },
-    {
-      "name": "ビビッドアビス",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_82_thumb.jpg?p=2310171000",
-      "Rare": "3",
-      "brand": "2"
-    },
-    {
-      "name": "スパークスター",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_83_thumb.jpg?p=2310171000",
-      "Rare": "3",
-      "brand": "2"
-    },
-    {
-      "name": "ヒップホップ",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_84_thumb.jpg?p=2310171000",
-      "Rare": "2",
-      "brand": "2"
-    },
-    {
-      "name": "ネオンチェッカー",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_85_thumb.jpg?p=2310171000",
-      "Rare": "2",
-      "brand": "2"
-    },
-    {
-      "name": "ハードチェック",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_87_thumb.jpg?p=2310171000",
-      "Rare": "2",
-      "brand": "2"
-    },
-    {
-      "name": "パッションエトワールレッド",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_88_thumb.jpg?p=2310171000",
-      "Rare": "2",
-      "brand": "2"
-    },
-    {
-      "name": "マナマナチムム",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_89_thumb.jpg?p=2310171000",
-      "Rare": "2",
-      "brand": "2"
-    },
-    {
-      "name": "スターバンドガール",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_90_thumb.jpg?p=2310171000",
-      "Rare": "2",
-      "brand": "2"
-    },
-    {
       "name": "ビビッドスターワッペンTシャツ",
       "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_42_thumb.jpg?p=2310171000",
       "Rare": "1",
@@ -2326,144 +1744,6 @@ let item ={
     }
   ],
   "3": [
-    {
-      "name": "ステンドグラス",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P02/img_codination_1_thumb.jpg?p=2312081000",
-      "Rare": "3",
-      "brand": "3"
-    },
-    {
-      "name": "ステンドグラスホワイト",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P02/img_codination_2_thumb.jpg?p=2312081000",
-      "Rare": "3",
-      "brand": "3"
-    },
-    {
-      "name": "ゴシックケープ",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P02/img_codination_5_thumb.jpg?p=2312081000",
-      "Rare": "2",
-      "brand": "3"
-    },
-    {
-      "name": "ゴシックケープグリーン",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P02/img_codination_6_thumb.jpg?p=2312081000",
-      "Rare": "2",
-      "brand": "3"
-    },
-    {
-      "name": "ムーンライト",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P02/img_codination_7_thumb.jpg?p=2312081000",
-      "Rare": "2",
-      "brand": "3"
-    },
-    {
-      "name": "ムーンライトレッド",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P02/img_codination_8_thumb.jpg?p=2312081000",
-      "Rare": "2",
-      "brand": "3"
-    },
-    {
-      "name": "ドレッシーピアノ",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P02/img_codination_9_thumb.jpg?p=2312081000",
-      "Rare": "2",
-      "brand": "3"
-    },
-    {
-      "name": "ドレッシーピアノピンク",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P02/img_codination_10_thumb.jpg?p=2312081000",
-      "Rare": "2",
-      "brand": "3"
-    },
-    {
-      "name": "アカデミー",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P02/img_codination_17_thumb.jpg?p=2312081000",
-      "Rare": "1",
-      "brand": "3"
-    },
-    {
-      "name": "リトルバロン",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P02/img_codination_18_thumb.jpg?p=2312081000",
-      "Rare": "1",
-      "brand": "3"
-    },
-    {
-      "name": "ウィンターファー",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P02/img_codination_23_thumb.jpg?p=2312081000",
-      "Rare": "1",
-      "brand": "3"
-    },
-    {
-      "name": "クラシックラビット",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P02/img_codination_24_thumb.jpg?p=2312081000",
-      "Rare": "1",
-      "brand": "3"
-    },
-    {
-      "name": "ヴィンテージコート",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P02/img_codination_25_thumb.jpg?p=2312081000",
-      "Rare": "1",
-      "brand": "3"
-    },
-    {
-      "name": "ウィンターファーレッド",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P02/img_codination_34_thumb.jpg?p=2312081000",
-      "Rare": "1",
-      "brand": "3"
-    },
-    {
-      "name": "ムーンライトホワイト",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P02/img_codination_35_thumb.jpg?p=2312081000",
-      "Rare": "2",
-      "brand": "3"
-    },
-    {
-      "name": "ステンドグラスクラシカル",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P02/img_codination_36_thumb.jpg?p=2312081000",
-      "Rare": "3",
-      "brand": "3"
-    },
-    {
-      "name": "ドレッシーピアノブルー",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P02/img_codination_37_thumb.jpg?p=2312081000",
-      "Rare": "2",
-      "brand": "3"
-    },
-    {
-      "name": "アカデミーブラウン",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P02/img_codination_40_thumb.jpg?p=2312081000",
-      "Rare": "1",
-      "brand": "3"
-    },
-    {
-      "name": "ヴィンテージコートレッド",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P02/img_codination_41_thumb.jpg?p=2312081000",
-      "Rare": "1",
-      "brand": "3"
-    },
-    {
-      "name": "ムーンライトグリーン",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P02/img_codination_44_thumb.jpg?p=2312081000",
-      "Rare": "2",
-      "brand": "3"
-    },
-    {
-      "name": "ドレッシーピアノレッド",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P02/img_codination_45_thumb.jpg?p=2312081000",
-      "Rare": "2",
-      "brand": "3"
-    },
-    {
-      "name": "ゴシックケープライトブルー",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P02/img_codination_49_thumb.jpg?p=2312081000",
-      "Rare": "2",
-      "brand": "3"
-    },
-    {
-      "name": "ヴィンテージコートピンク",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P02/img_codination_52_thumb.jpg?p=2312081000",
-      "Rare": "1",
-      "brand": "3"
-    },
     {
       "name": "ステンドグラス",
       "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P02/img_codination_1_thumb.jpg?p=2312081000",
@@ -3101,66 +2381,6 @@ let item ={
       "brand": "3"
     },
     {
-      "name": "ダークネスエレメンツ",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_92_thumb.jpg?p=2310171000",
-      "Rare": "4",
-      "brand": "3"
-    },
-    {
-      "name": "ステンドグラス",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_93_thumb.jpg?p=2310171000",
-      "Rare": "3",
-      "brand": "3"
-    },
-    {
-      "name": "ホーリィモノクロームブラック",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_94_thumb.jpg?p=2310171000",
-      "Rare": "3",
-      "brand": "3"
-    },
-    {
-      "name": "マナマナきゃろん",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_96_thumb.jpg?p=2310171000",
-      "Rare": "2",
-      "brand": "3"
-    },
-    {
-      "name": "パンキッシュハート",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_97_thumb.jpg?p=2310171000",
-      "Rare": "2",
-      "brand": "3"
-    },
-    {
-      "name": "ゴシックケープ",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_98_thumb.jpg?p=2310171000",
-      "Rare": "2",
-      "brand": "3"
-    },
-    {
-      "name": "ムーンライト",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_99_thumb.jpg?p=2310171000",
-      "Rare": "2",
-      "brand": "3"
-    },
-    {
-      "name": "ドレッシーピアノ",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_100_thumb.jpg?p=2310171000",
-      "Rare": "2",
-      "brand": "3"
-    },
-    {
-      "name": "メルヘンカルーセル",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_101_thumb.jpg?p=2310171000",
-      "Rare": "2",
-      "brand": "3"
-    },
-    {
-      "name": "ローズクイーン",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_102_thumb.jpg?p=2310171000",
-      "Rare": "2",
-      "brand": "3"
-    },
-    {
       "name": "ヴァンパイアガールハロウィン",
       "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_65_thumb.jpg?p=2310171000",
       "Rare": "2",
@@ -3394,12 +2614,6 @@ let item ={
       "name": "エレガントジュエルアクア",
       "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P06/img_codination_75_thumb.jpg?p=2312081000",
       "Rare": "3",
-      "brand": "4"
-    },
-    {
-      "name": "マーチンググリーン",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P06/img_codination_80_thumb.jpg?p=2312081000",
-      "Rare": "2",
       "brand": "4"
     },
     {
@@ -3661,12 +2875,6 @@ let item ={
       "brand": "4"
     },
     {
-      "name": "エターナルレヴューTシャツ",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/2P08/img_codination_103_thumb.jpg?p=2312081000",
-      "Rare": "1",
-      "brand": "4"
-    },
-    {
       "name": "エレガントジュエルひな",
       "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_23_thumb.jpg?p=2310171000",
       "Rare": "3",
@@ -3675,78 +2883,6 @@ let item ={
     {
       "name": "マナマナあまね",
       "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_36_thumb.jpg?p=2310171000",
-      "Rare": "2",
-      "brand": "4"
-    },
-    {
-      "name": "マーチングパープル",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_86_thumb.jpg?p=2310171000",
-      "Rare": "2",
-      "brand": "4"
-    },
-    {
-      "name": "アクアエレメンツ",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_104_thumb.jpg?p=2310171000",
-      "Rare": "4",
-      "brand": "4"
-    },
-    {
-      "name": "エレガントジュエル",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_105_thumb.jpg?p=2310171000",
-      "Rare": "3",
-      "brand": "4"
-    },
-    {
-      "name": "エターナルシュガー",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_106_thumb.jpg?p=2310171000",
-      "Rare": "3",
-      "brand": "4"
-    },
-    {
-      "name": "パッションエトワールパープル",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_107_thumb.jpg?p=2310171000",
-      "Rare": "2",
-      "brand": "4"
-    },
-    {
-      "name": "ジャスティスローズ",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_108_thumb.jpg?p=2310171000",
-      "Rare": "2",
-      "brand": "4"
-    },
-    {
-      "name": "スチームパンク",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_109_thumb.jpg?p=2310171000",
-      "Rare": "2",
-      "brand": "4"
-    },
-    {
-      "name": "ブリティッシュジェントル",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_110_thumb.jpg?p=2310171000",
-      "Rare": "2",
-      "brand": "4"
-    },
-    {
-      "name": "プリマジミュージカルあまね",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_111_thumb.jpg?p=2310171000",
-      "Rare": "2",
-      "brand": "4"
-    },
-    {
-      "name": "マナマナぱたの",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_112_thumb.jpg?p=2310171000",
-      "Rare": "2",
-      "brand": "4"
-    },
-    {
-      "name": "プリマジミュージカル",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_113_thumb.jpg?p=2310171000",
-      "Rare": "2",
-      "brand": "4"
-    },
-    {
-      "name": "マーチンググリーン",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_114_thumb.jpg?p=2310171000",
       "Rare": "2",
       "brand": "4"
     },
@@ -4141,66 +3277,6 @@ let item ={
       "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_33_thumb.jpg?p=2310171000",
       "Rare": "3",
       "brand": "5"
-    },
-    {
-      "name": "フラッシュエレメンツ",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_128_thumb.jpg?p=2310171000",
-      "Rare": "4",
-      "brand": "5"
-    },
-    {
-      "name": "エレクトロメロディ",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_129_thumb.jpg?p=2310171000",
-      "Rare": "3",
-      "brand": "5"
-    },
-    {
-      "name": "メカニックビート",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_130_thumb.jpg?p=2310171000",
-      "Rare": "3",
-      "brand": "5"
-    },
-    {
-      "name": "テクノマジカルブルー",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_132_thumb.jpg?p=2310171000",
-      "Rare": "3",
-      "brand": "5"
-    },
-    {
-      "name": "サイバーゲーム",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_133_thumb.jpg?p=2310171000",
-      "Rare": "2",
-      "brand": "5"
-    },
-    {
-      "name": "チャイナネオン",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_134_thumb.jpg?p=2310171000",
-      "Rare": "2",
-      "brand": "5"
-    },
-    {
-      "name": "スペーストラベラー",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_135_thumb.jpg?p=2310171000",
-      "Rare": "2",
-      "brand": "5"
-    },
-    {
-      "name": "タテジマなりきり",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_136_thumb.jpg?p=2310171000",
-      "Rare": "2",
-      "brand": "5"
-    },
-    {
-      "name": "ぺんぺんぺんぎん",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_137_thumb.jpg?p=2310171000",
-      "Rare": "2",
-      "brand": "5"
-    },
-    {
-      "name": "オーバーサイズパーカー",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_138_thumb.jpg?p=2310171000",
-      "Rare": "1",
-      "brand": "5"
     }
   ],
   "6": [
@@ -4547,18 +3623,6 @@ let item ={
       "brand": "6"
     },
     {
-      "name": "チェックショートジャケット　ベージュ",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/2P04/img_codination_136_thumb.jpg?p=2312081000",
-      "Rare": "1",
-      "brand": "6"
-    },
-    {
-      "name": "チェックショートジャケット　ピンク",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/2P04/img_codination_139_thumb.jpg?p=2312081000",
-      "Rare": "1",
-      "brand": "6"
-    },
-    {
       "name": "チェックショートジャケット　ラベンダー",
       "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/2P04/img_codination_115_thumb.jpg?p=2312081000",
       "Rare": "1",
@@ -4748,66 +3812,6 @@ let item ={
       "name": "パンダTシャツ",
       "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/2P08/img_codination_146_thumb.jpg?p=2312081000",
       "Rare": "1",
-      "brand": "6"
-    },
-    {
-      "name": "ブライトネスエレメンツ",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_116_thumb.jpg?p=2310171000",
-      "Rare": "4",
-      "brand": "6"
-    },
-    {
-      "name": "ホーリィモノクロームホワイト",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_117_thumb.jpg?p=2310171000",
-      "Rare": "3",
-      "brand": "6"
-    },
-    {
-      "name": "ミラクルベア",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_118_thumb.jpg?p=2310171000",
-      "Rare": "3",
-      "brand": "6"
-    },
-    {
-      "name": "マナマナはにたん",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_120_thumb.jpg?p=2310171000",
-      "Rare": "2",
-      "brand": "6"
-    },
-    {
-      "name": "パンダチャイナ",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_121_thumb.jpg?p=2310171000",
-      "Rare": "2",
-      "brand": "6"
-    },
-    {
-      "name": "パンダチャイナピンク",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_122_thumb.jpg?p=2310171000",
-      "Rare": "2",
-      "brand": "6"
-    },
-    {
-      "name": "イースターバニー",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_123_thumb.jpg?p=2310171000",
-      "Rare": "2",
-      "brand": "6"
-    },
-    {
-      "name": "エンジェルアイス",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_124_thumb.jpg?p=2310171000",
-      "Rare": "2",
-      "brand": "6"
-    },
-    {
-      "name": "チェリークリーム",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_125_thumb.jpg?p=2310171000",
-      "Rare": "2",
-      "brand": "6"
-    },
-    {
-      "name": "ショートケーキ",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_126_thumb.jpg?p=2310171000",
-      "Rare": "2",
       "brand": "6"
     },
     {
@@ -5083,18 +4087,6 @@ let item ={
       "brand": "7"
     },
     {
-      "name": "ジェニー オトナベージュ",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/2P07/img_codination_42_thumb.jpg?p=2312081000",
-      "Rare": "2",
-      "brand": "7"
-    },
-    {
-      "name": "ジェニー キュートピンク",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/2P07/img_codination_43_thumb.jpg?p=2312081000",
-      "Rare": "2",
-      "brand": "7"
-    },
-    {
       "name": "ジェニーTシャツ",
       "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/2P07/img_codination_68_thumb.jpg?p=2312081000",
       "Rare": "1",
@@ -5111,99 +4103,9 @@ let item ={
       "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P02/img_codination_148_thumb.jpg?p=2401292200",
       "Rare": "2",
       "brand": "7"
-    },
-    {
-      "name": "サンシャインエレメンツ",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P02/img_codination_166_thumb.jpg?p=2401292200",
-      "Rare": "4",
-      "brand": "7"
-    },
-    {
-      "name": "リバティーサンシャイン",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P02/img_codination_167_thumb.jpg?p=2401292200",
-      "Rare": "3",
-      "brand": "7"
-    },
-    {
-      "name": "シャイニングメロディスター",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P02/img_codination_169_thumb.jpg?p=2401292200",
-      "Rare": "3",
-      "brand": "7"
-    },
-    {
-      "name": "フラワーオーバーレッド",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P02/img_codination_170_thumb.jpg?p=2401292200",
-      "Rare": "2",
-      "brand": "7"
-    },
-    {
-      "name": "トゥルーラブ",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P02/img_codination_171_thumb.jpg?p=2401292200",
-      "Rare": "2",
-      "brand": "7"
-    },
-    {
-      "name": "トゥルーラブゴールド",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P02/img_codination_172_thumb.jpg?p=2401292200",
-      "Rare": "2",
-      "brand": "7"
-    },
-    {
-      "name": "ジュエリーサテンゴールド",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P02/img_codination_173_thumb.jpg?p=2401292200",
-      "Rare": "2",
-      "brand": "7"
-    },
-    {
-      "name": "ジュエリーサテンシルバー",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P02/img_codination_174_thumb.jpg?p=2401292200",
-      "Rare": "2",
-      "brand": "7"
-    },
-    {
-      "name": "ショルダーフリル",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P02/img_codination_176_thumb.jpg?p=2401292200",
-      "Rare": "1",
-      "brand": "7"
     }
   ],
   "8": [
-    {
-      "name": "プリマジチェックピンク",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P01/img_codination_17_thumb.jpg?p=2312081000",
-      "Rare": "1",
-      "brand": "8"
-    },
-    {
-      "name": "プリマジチェックオレンジ",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P01/img_codination_18_thumb.jpg?p=2312081000",
-      "Rare": "1",
-      "brand": "8"
-    },
-    {
-      "name": "まつりスクール",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P01/img_codination_29_thumb.jpg?p=2312081000",
-      "Rare": "1",
-      "brand": "8"
-    },
-    {
-      "name": "ひなスクール",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P01/img_codination_30_thumb.jpg?p=2312081000",
-      "Rare": "1",
-      "brand": "8"
-    },
-    {
-      "name": "プリマジチェックパープル",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P02/img_codination_22_thumb.jpg?p=2312081000",
-      "Rare": "1",
-      "brand": "8"
-    },
-    {
-      "name": "れもんスクール",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P02/img_codination_30_thumb.jpg?p=2312081000",
-      "Rare": "1",
-      "brand": "8"
-    },
     {
       "name": "プリマジチェックピンク",
       "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P01/img_codination_17_thumb.jpg?p=2312081000",
@@ -5313,38 +4215,8 @@ let item ={
       "brand": "8"
     },
     {
-      "name": "スマイルエレメンツ",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P05/img_codination_35_thumb.jpg?p=2312081000",
-      "Rare": "4",
-      "brand": "8"
-    },
-    {
-      "name": "スマイルエレメンツ",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P06/img_codination_39_thumb.jpg?p=2312081000",
-      "Rare": "4",
-      "brand": "8"
-    },
-    {
       "name": "プリマジチェックイエロー",
       "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P06/img_codination_17_thumb.jpg?p=2312081000",
-      "Rare": "1",
-      "brand": "8"
-    },
-    {
-      "name": "ひなスクール",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P01/img_codination_30_thumb.jpg?p=2312081000",
-      "Rare": "1",
-      "brand": "8"
-    },
-    {
-      "name": "まつりスクール",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P01/img_codination_29_thumb.jpg?p=2312081000",
-      "Rare": "1",
-      "brand": "8"
-    },
-    {
-      "name": "みるきスクール",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P04/img_codination_14_thumb.jpg?p=2312081000",
       "Rare": "1",
       "brand": "8"
     },
@@ -6045,24 +4917,6 @@ let item ={
       "brand": "8"
     },
     {
-      "name": "セブンスコーデラブリードレス",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_47_thumb.jpg?p=2310171000",
-      "Rare": "3",
-      "brand": "8"
-    },
-    {
-      "name": "セブンスコーデレディアントレインボー",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_48_thumb.jpg?p=2310171000",
-      "Rare": "3",
-      "brand": "8"
-    },
-    {
-      "name": "セブンスコーデセクシードレス",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_49_thumb.jpg?p=2310171000",
-      "Rare": "3",
-      "brand": "8"
-    },
-    {
       "name": "ドリーミングハーモニー",
       "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_50_thumb.jpg?p=2310171000",
       "Rare": "2",
@@ -6111,36 +4965,6 @@ let item ={
       "brand": "8"
     },
     {
-      "name": "まつりスクール",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_79_thumb.jpg?p=2310171000",
-      "Rare": "1",
-      "brand": "8"
-    },
-    {
-      "name": "ひなスクール",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_91_thumb.jpg?p=2310171000",
-      "Rare": "1",
-      "brand": "8"
-    },
-    {
-      "name": "れもんスクール",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_103_thumb.jpg?p=2310171000",
-      "Rare": "1",
-      "brand": "8"
-    },
-    {
-      "name": "あまねスクール",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_115_thumb.jpg?p=2310171000",
-      "Rare": "1",
-      "brand": "8"
-    },
-    {
-      "name": "みるきスクール",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_127_thumb.jpg?p=2310171000",
-      "Rare": "1",
-      "brand": "8"
-    },
-    {
       "name": "マジ・ワッチャパレードTシャツ",
       "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_37_thumb.jpg?p=2310171000",
       "Rare": "1",
@@ -6186,18 +5010,6 @@ let item ={
       "name": "スマイルエレメンツサンシャイン",
       "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P02/img_codination_141_thumb.jpg?p=2401292200",
       "Rare": "4",
-      "brand": "8"
-    },
-    {
-      "name": "プリマジチェックイエロー",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P02/img_codination_175_thumb.jpg?p=2401292200",
-      "Rare": "1",
-      "brand": "8"
-    },
-    {
-      "name": "スイートハニーキラッと",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P02/img_codination_153_thumb.jpg?p=2401292200",
-      "Rare": "3",
       "brand": "8"
     },
     {
@@ -6425,12 +5237,6 @@ let item ={
       "brand": "9"
     },
     {
-      "name": "プリンセスハッピー",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/2P03/img_codination_1_thumb.jpg?p=2312081000",
-      "Rare": "3",
-      "brand": "9"
-    },
-    {
       "name": "ミラクルユニコーンブリティッシュ",
       "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/2P04/img_codination_83_thumb.jpg?p=2312081000",
       "Rare": "3",
@@ -6581,18 +5387,6 @@ let item ={
       "brand": "9"
     },
     {
-      "name": "めざめのプリンセスパープル",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/2P05/img_codination_52_thumb.jpg?p=2312081000",
-      "Rare": "3",
-      "brand": "9"
-    },
-    {
-      "name": "めざめのプリンセスパープル",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/2P06/img_codination_152_thumb.jpg?p=2312081000",
-      "Rare": "3",
-      "brand": "9"
-    },
-    {
       "name": "きらめきのプリンセス",
       "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/2P06/img_codination_129_thumb.jpg?p=2312081000",
       "Rare": "3",
@@ -6619,12 +5413,6 @@ let item ={
     {
       "name": "フレッシュフェアリーネモフィラ",
       "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/2P06/img_codination_147_thumb.jpg?p=2312081000",
-      "Rare": "3",
-      "brand": "9"
-    },
-    {
-      "name": "プリンセスハッピー",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/2P05/img_codination_1_thumb.jpg?p=2312081000",
       "Rare": "3",
       "brand": "9"
     },
@@ -7031,36 +5819,6 @@ let item ={
       "brand": "9"
     },
     {
-      "name": "ラブリーメロディプリンセス",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_74_thumb.jpg?p=2310171000",
-      "Rare": "3",
-      "brand": "9"
-    },
-    {
-      "name": "ビビッドスタープリンセス",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_81_thumb.jpg?p=2310171000",
-      "Rare": "3",
-      "brand": "9"
-    },
-    {
-      "name": "レディアントアビスプリンセス",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_95_thumb.jpg?p=2310171000",
-      "Rare": "3",
-      "brand": "9"
-    },
-    {
-      "name": "チェリーシュガープリンセス",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_119_thumb.jpg?p=2310171000",
-      "Rare": "3",
-      "brand": "9"
-    },
-    {
-      "name": "エレクトロリミックスプリンセス",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_131_thumb.jpg?p=2310171000",
-      "Rare": "3",
-      "brand": "9"
-    },
-    {
       "name": "えいえんのおしゃれプリンセス",
       "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P01/img_codination_58_thumb.jpg?p=2310171000",
       "Rare": "7",
@@ -7082,78 +5840,6 @@ let item ={
       "name": "エンジェルバブルイエロー",
       "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P02/img_codination_146_thumb.jpg?p=2401292200",
       "Rare": "3",
-      "brand": "9"
-    },
-    {
-      "name": "シャイニングディーバプリンセス",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P02/img_codination_168_thumb.jpg?p=2401292200",
-      "Rare": "3",
-      "brand": "9"
-    },
-    {
-      "name": "コスメティックフラワー",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P02/img_codination_177_thumb.jpg?p=2401292200",
-      "Rare": "3",
-      "brand": "9"
-    },
-    {
-      "name": "フローラルバタフライ",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P02/img_codination_178_thumb.jpg?p=2401292200",
-      "Rare": "3",
-      "brand": "9"
-    },
-    {
-      "name": "フラワーブロッサム",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P02/img_codination_179_thumb.jpg?p=2401292200",
-      "Rare": "3",
-      "brand": "9"
-    },
-    {
-      "name": "ミラクルユニコーン",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P02/img_codination_180_thumb.jpg?p=2401292200",
-      "Rare": "3",
-      "brand": "9"
-    },
-    {
-      "name": "フレッシュフェアリー",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P02/img_codination_181_thumb.jpg?p=2401292200",
-      "Rare": "3",
-      "brand": "9"
-    },
-    {
-      "name": "スプラッシュマーメイド",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P02/img_codination_182_thumb.jpg?p=2401292200",
-      "Rare": "3",
-      "brand": "9"
-    },
-    {
-      "name": "ナイトドリーム",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P02/img_codination_183_thumb.jpg?p=2401292200",
-      "Rare": "2",
-      "brand": "9"
-    },
-    {
-      "name": "リトルプリンセス",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P02/img_codination_184_thumb.jpg?p=2401292200",
-      "Rare": "2",
-      "brand": "9"
-    },
-    {
-      "name": "パウダースノー",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P02/img_codination_185_thumb.jpg?p=2401292200",
-      "Rare": "2",
-      "brand": "9"
-    },
-    {
-      "name": "ワンダーランドブルー",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P02/img_codination_186_thumb.jpg?p=2401292200",
-      "Rare": "1",
-      "brand": "9"
-    },
-    {
-      "name": "ひめめカジュアル",
-      "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/3P02/img_codination_187_thumb.jpg?p=2401292200",
-      "Rare": "1",
       "brand": "9"
     },
     {

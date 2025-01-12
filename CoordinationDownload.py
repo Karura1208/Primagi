@@ -116,7 +116,7 @@ def download():
 
         #画像の詳細ページへリンク
         for i in range(0,len(listCoordName),1):
-            #???を取得しないようにする(詳細のクリックでボタンがなく遷移せずにエラーになる)
+            #???(シークレット枠アイテム)を取得しないようにする(詳細のクリックでボタンがなく遷移せずにエラーになる)
             if listCoordName[i] != '? ? ?':
                 driver.get(listDetailHref[i])
                     
@@ -158,7 +158,39 @@ def download():
     print("fin")
 
 
+def DuplingDelete():
+    dict_data = {}#コーデアイテムの連想配列
+    dict_dataNew ={} #重複削除後のコーデアイテムの連想配列
+    arr_dupCoord = [] #重複したコーデ名の保存配列
+    cnt = 0 #重複チェック用カウンター
+    c = 0
+
+    #保存用Jsonの取得
+    dict_data = fileRoad(dict_data)
+
+    for ver1 in dict_data:
+        dict_dataNew.setdefault(ver1,[])
+        for coord1 in dict_data[ver1]:
+            cnt = 0
+            for ver2 in dict_data:
+                for coord2 in dict_data[ver2]:
+                    if coord1["name"] == coord2["name"]:
+                        cnt = cnt + 1
+            if cnt >= 2 :
+                if not coord1["name"] in arr_dupCoord:
+                    arr_dupCoord.append(coord1["name"])
+                    dict_dataNew[ver1].append(coord1)
+                c = c+1
+            elif cnt == 1:
+                dict_dataNew[ver1].append(coord1)
+            elif cnt == 0:
+                print(coord1["name"])
+    print(c)
+
+    #JsonとJSの保存
+    fileWrite(dict_dataNew)
 
 #メイン処理実行
-download()
+#download()
 
+DuplingDelete()
