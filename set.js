@@ -115,65 +115,74 @@ function create_disp(){
 
     //テーブル作成
     //該当箇所のアイテム数テーブルを作成
-    for(var i=0;i<obj["disp_data"].length;i++){
+    for(var j=6;j>=0;j--){
 
-        const table = document.createElement("table")
-        table.border = 1
-        table.style = "border-collapse: collapse"
-        table.width = "500"
-
-        //1テーブル生成1
-        //tr(行)生成ループ
-        for (var k=0;k<2;k++){
-            //th(列)生成ループ
-            var tr = document.createElement('tr')
-            for (var l=0;l<2;l++){
-                //1行目にコーデ名を入れる見出しを作成
-                if(k==0 && l==0){
-                    var th = document.createElement('th')
-                    th.colSpan = 2
-                    th.textContent = obj["disp_data"][i].name
-                    tr.appendChild(th)
-                }
-                // フルコーデ画像を表示
-                else if(k==1 && l==0){
-                    var td = document.createElement('td')
-                    td.rowSpan = 4
-                    //画像パス 
-                    var img = document.createElement("img")
-                    img.src = obj["disp_data"][i].image
-                    img.height = "180"
-                    img.width = "160"
-                    td.appendChild(img)
-                    tr.appendChild(td)
-                }
-                else if(k==1 && l==1){
-                    var td = document.createElement('td')
-                    td.width = "400"
-                    var ch = document.createElement('input');
-                    ch.setAttribute('type','checkbox');
-                    ch.setAttribute('name','name');
-
-                    var label = document.createElement('label')
-
-                    //トップス
-                    ch.setAttribute('id',obj["disp_data"][i].name);
-                    console.log(check[obj["disp_data"][i].name])
-                    if (check[obj["disp_data"][i].name] == "get"){
-                        ch.setAttribute('checked',ch[obj["disp_data"][i].name])
-                    }
-                    label.setAttribute("for",obj["disp_data"][i].name)
-                    label.innerHTML = obj["disp_data"][i].name
-
-                    td.appendChild(ch)
-                    td.appendChild(label)
-                    tr.appendChild(td)
-                }
-            }
-            table.appendChild(tr)
+        if(obj["disp_data"][String(j+1)].length == 0){
+            continue;
         }
 
-        div.appendChild(table)
+        //サブタイトルを表示させる
+        const h3 = document.createElement('h3')
+        h3.textContent = data["rare"][j].name
+        div.appendChild(h3)
+        for(var i=0;i<obj["disp_data"][String(j+1)].length;i++){
+
+            const table = document.createElement("table")
+            table.border = 1
+            table.style = "border-collapse: collapse"
+            table.width = "500"
+                
+            //tr(行)生成ループ
+            for (var k=0;k<2;k++){
+                //th(列)生成ループ
+                var tr = document.createElement('tr')
+                for (var l=0;l<2;l++){
+                    //1行目にコーデ名を入れる見出しを作成
+                    if(k==0 && l==0){
+                        var th = document.createElement('th')
+                        th.colSpan = 2
+                        th.textContent = obj["disp_data"][String(j+1)][i].name
+                        tr.appendChild(th)
+                    }
+                    // フルコーデ画像を表示
+                    else if(k==1 && l==0){
+                        var td = document.createElement('td')
+                        td.rowSpan = 4
+                        //画像パス 
+                        var img = document.createElement("img")
+                        img.src = obj["disp_data"][String(j+1)][i].image
+                        img.height = "180"
+                        img.width = "160"
+                        td.appendChild(img)
+                        tr.appendChild(td)
+                    }
+                    else if(k==1 && l==1){
+                        var td = document.createElement('td')
+                        td.width = "400"
+                        var ch = document.createElement('input');
+                        ch.setAttribute('type','checkbox');
+                        ch.setAttribute('name','name');
+
+                        var label = document.createElement('label')
+
+                        //トップス
+                        ch.setAttribute('id',obj["disp_data"][String(j+1)][i].name);
+                        console.log(check[obj["disp_data"][String(j+1)][i].name])
+                        if (check[obj["disp_data"][String(j+1)][i].name] == "get"){
+                            ch.setAttribute('checked',ch[obj["disp_data"][String(j+1)][i].name])
+                        }
+                        label.setAttribute("for",obj["disp_data"][String(j+1)][i].name)
+                        label.innerHTML = obj["disp_data"][String(j+1)][i].name
+
+                        td.appendChild(ch)
+                        td.appendChild(label)
+                        tr.appendChild(td)
+                    }
+                }
+                table.appendChild(tr)
+            }
+            div.appendChild(table)
+        }
     }
 }
 
@@ -188,19 +197,19 @@ function create_disp_data(brand){
     item_list["title"]=data["brand"][brand-1]["name"]
     item_list["brand"]=data["brand"]
 
-    //全アイテムリストから該当ブランドのアイテムを順に抽出
-    //for(i=0;i<9;i++){
-    //    ver_string = String(i+1)
-    //    for(i=0;i<item[ver_string].length;i++){
-    //        work = {}
-    //        if(item[ver_string][i]["brand"]==brand_string){
-    //            work = Object.assign(work,item[ver_string][i])
-    //            list.push(work)
-    //        }
-    //    }
-    //}
+    for(i=0;i<7;i++){
+        rare_string = String(i+1)
+        work[rare_string]=[]
+    }
 
-    item_list["disp_data"] = item[brand_string]
+    //全アイテムリストから該当ブランドのアイテムをレアリティ順に抽出
+    for(i=0;i<item[brand_string].length;i++){
+        list_item = item[brand_string][i]
+        work[list_item["Rare"]].push(list_item)
+    }
+
+    //item_list["disp_data"] = item[brand_string]
+    item_list["disp_data"] = work
 
     return item_list
 
