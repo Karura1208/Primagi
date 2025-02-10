@@ -2138,7 +2138,7 @@ let url ={
       },
       {
         "name": "サイバーゲームソーダブルー",
-        "url": ""
+        "url": "https://cdn.discordapp.com/attachments/1338348814171639859/1338498806928642068/IMG_7949.jpg?ex=67ab4da7&is=67a9fc27&hm=d830199f8050d99632e9f0ba13e4865b02f8fde610024303e938508d91500b38&"
       },
       {
         "name": "シャカシャカサロペットライム",
@@ -2218,7 +2218,7 @@ let url ={
       },
       {
         "name": "エンジェルアイスイエロー",
-        "url": ""
+        "url": "https://cdn.discordapp.com/attachments/1338348814171639859/1338504028941844612/IMG_7959.jpg?ex=67ab5284&is=67aa0104&hm=d1cd04d3f0a868e00821bb50b174f0cee19e150ea54d2d5219cccbf168e061ff&"
       },
       {
         "name": "イースターバニーブラック",
@@ -2266,7 +2266,7 @@ let url ={
       },
       {
         "name": "チェリークリームブルー",
-        "url": ""
+        "url": "https://cdn.discordapp.com/attachments/1338348814171639859/1338504285041725472/IMG_7962.jpg?ex=67ab52c1&is=67aa0141&hm=9d9737af2cca22ce974a55f048f34cff988ac13a00e55e07b25095172876fc64&"
       },
       {
         "name": "ハッピーセーラーグリーン",
@@ -2294,11 +2294,11 @@ let url ={
       },
       {
         "name": "ハートケープライトブルー",
-        "url": ""
+        "url": "https://cdn.discordapp.com/attachments/1338348814171639859/1338504357468962931/IMG_7963.jpg?ex=67ab52d3&is=67aa0153&hm=c1135934930c4a719519ac85d1c4932da9d6c28b41e4c8c777f4a034cac38c55&"
       },
       {
         "name": "ミラクルベアブライトネス",
-        "url": ""
+        "url": "https://cdn.discordapp.com/attachments/1338348814171639859/1338503749022384279/IMG_7952.jpg?ex=67ab5241&is=67aa00c1&hm=8ef11969dd9de84a429901b7c29b7fa19aee9af9883134944bd62bc432fa5219&"
       },
       {
         "name": "マイメロディだいすき",
@@ -2402,7 +2402,7 @@ let url ={
       },
       {
         "name": "ピクニックサンドイッチ",
-        "url": ""
+        "url": "https://cdn.discordapp.com/attachments/1338348814171639859/1338503893667283014/IMG_7955.jpg?ex=67ab5264&is=67aa00e4&hm=88332932692c650f332c903d425b1222b31f8c577315beff37c7695b9b64c23b&"
       },
       {
         "name": "パンダチャイナブルー",
@@ -2422,7 +2422,7 @@ let url ={
       },
       {
         "name": "わくわくカフェてんいん",
-        "url": ""
+        "url": "https://cdn.discordapp.com/attachments/1338348814171639859/1338504401605628016/IMG_7964.jpg?ex=67ab52dd&is=67aa015d&hm=fbccbc7935f29bf3c988eccba959f0520f40eb47c6f707e8994e1975a355a444&"
       },
       {
         "name": "みるきVSはにたんTシャツ",
@@ -2442,7 +2442,7 @@ let url ={
       },
       {
         "name": "チェリークリームチョコレート",
-        "url": ""
+        "url": "https://cdn.discordapp.com/attachments/1338348814171639859/1338504212795101329/IMG_7961.jpg?ex=67ab52b0&is=67aa0130&hm=624c5578f6ed9debf8458a2b7850f545ea56218429ea5e35379c56184a99c228&"
       },
       {
         "name": "キルティングハートパープル",
@@ -2450,7 +2450,7 @@ let url ={
       },
       {
         "name": "チェリーシュガースタイル",
-        "url": ""
+        "url": "https://cdn.discordapp.com/attachments/1338348814171639859/1338504466432790528/IMG_7965.jpg?ex=67ab52ed&is=67aa016d&hm=afd00d4491560fcfd069ed4e9ba9a6d32e01a6af6c05b53d0185db1dbc7685b1&"
       },
       {
         "name": "ユニコーンミックスクールブルー",
@@ -2458,7 +2458,7 @@ let url ={
       },
       {
         "name": "エンジェルいちごミルク",
-        "url": ""
+        "url": "https://cdn.discordapp.com/attachments/1338348814171639859/1338504111565312090/IMG_7960.jpg?ex=67ab5298&is=67aa0118&hm=33a48b908f0174b442a2668fca89b64e73d07897e3b9cc7f2bde72710efbbec3&"
       },
       {
         "name": "ユニコーンミックスラブリーピンク",
@@ -2474,7 +2474,7 @@ let url ={
       },
       {
         "name": "ハッピーセーラーみるく",
-        "url": ""
+        "url": "https://cdn.discordapp.com/attachments/1338348814171639859/1338504767475028039/IMG_7966.jpg?ex=67ab5334&is=67aa01b4&hm=1397001d406afdd0be086105c62eb8922f4ece0fb99d60ea278b424f7e9645e5&"
       },
       {
         "name": "ハッピーセーラーイエロー",
@@ -2498,7 +2498,7 @@ let url ={
       },
       {
         "name": "ポッピンスウィム",
-        "url": ""
+        "url": "https://cdn.discordapp.com/attachments/1338348814171639859/1338503937552289832/IMG_7957.jpg?ex=67ab526e&is=67aa00ee&hm=6c32f1ce28cc68aa01e49b0b4801f631cc10b590f75cd3493e076e8e8f823ba5&"
       },
       {
         "name": "おやすみベアパープル",
@@ -2518,7 +2518,7 @@ let url ={
       },
       {
         "name": "ポッピンスウィムオレンジ",
-        "url": ""
+        "url": "https://cdn.discordapp.com/attachments/1338348814171639859/1338503972515745862/IMG_7958.jpg?ex=67ab5277&is=67aa00f7&hm=6acf1f09cc19b4e5e4f3f5c8a041926b33b3a4ac8d19dcd381dcf0f0db91e231&"
       },
       {
         "name": "ポッピンスウィムグリーン",
@@ -2530,7 +2530,7 @@ let url ={
       },
       {
         "name": "ブライトネスエレメンツはにたん",
-        "url": ""
+        "url": "https://cdn.discordapp.com/attachments/1338348814171639859/1338503649147748414/IMG_7951.jpg?ex=67ab522a&is=67aa00aa&hm=206fd63b5adb986c427b17d3471ed91f1eeb4ab7124500b1f3a1be13e349c435&"
       },
       {
         "name": "ショートケーキハロウィン",
@@ -2546,7 +2546,7 @@ let url ={
       },
       {
         "name": "ミラクルベアダーク",
-        "url": ""
+        "url": "https://cdn.discordapp.com/attachments/1338348814171639859/1338503807012966410/IMG_7953.jpg?ex=67ab524f&is=67aa00cf&hm=52e2298ca02445c10e7db7493505d907d3bc6afccd5b7026a8d82a2eafd4f3a4&"
       },
       {
         "name": "はにたんなりきりＴシャツ",
@@ -2554,7 +2554,7 @@ let url ={
       },
       {
         "name": "ミラクルベアれもん",
-        "url": ""
+        "url": "https://cdn.discordapp.com/attachments/1338348814171639859/1338503849203335298/IMG_7954.jpg?ex=67ab5259&is=67aa00d9&hm=744a6cc188bff40c16f1a1bb207db47f1c70051f59ae73c01cb3347d24345ab8&"
       },
       {
         "name": "イワナイTシャツ",
