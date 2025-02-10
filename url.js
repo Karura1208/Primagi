@@ -1602,7 +1602,7 @@ let url ={
       },
       {
         "name": "アクアエレメンツ",
-        "url": ""
+        "url": "https://cdn.discordapp.com/attachments/1338348814171639859/1338490405452513353/IMG_4949.jpg?ex=67ab45d4&is=67a9f454&hm=8269b79e590e5388522e550bcf103dee210d7703e76502e11335e3ca89e91f82&"
       },
       {
         "name": "エレガントジュエル",
@@ -1614,7 +1614,7 @@ let url ={
       },
       {
         "name": "マーチンググリーン",
-        "url": ""
+        "url": "https://cdn.discordapp.com/attachments/1338348814171639859/1338490479150632970/IMG_4951.jpg?ex=67ab45e6&is=67a9f466&hm=49c380ec6596eb22b23a3e1ad18683863adad9f38c9e1e70910a538b83bf80f7&"
       },
       {
         "name": "マーチングイエロー",
@@ -1630,7 +1630,7 @@ let url ={
       },
       {
         "name": "スチームパンク",
-        "url": ""
+        "url": "https://cdn.discordapp.com/attachments/1338348814171639859/1338490660268806144/IMG_4957.jpg?ex=67ab4611&is=67a9f491&hm=8d3afa74c761aa72ec2e27b32e565200e78645350349918f259cdfe5babe1a96&"
       },
       {
         "name": "マニッシュジャケット",
@@ -1646,7 +1646,7 @@ let url ={
       },
       {
         "name": "スチームパンクブルー",
-        "url": ""
+        "url": "https://cdn.discordapp.com/attachments/1338348814171639859/1338490681873924167/IMG_4958.jpg?ex=67ab4616&is=67a9f496&hm=4814ad8a8ed6a8df638ef914f18cb22c6d7f271d6ff99da1a6d220fc4c256374&"
       },
       {
         "name": "マーチングレッド",
@@ -1794,7 +1794,7 @@ let url ={
       },
       {
         "name": "まじめポリス",
-        "url": ""
+        "url": "https://cdn.discordapp.com/attachments/1338348814171639859/1338490744930832475/IMG_4960.jpg?ex=67ab4625&is=67a9f4a5&hm=44a1187d9187c57f87032a399b09c761cf283d34fbbd9488dbdbb142b9b1a820&"
       },
       {
         "name": "マナマナぱたの",
@@ -1818,7 +1818,7 @@ let url ={
       },
       {
         "name": "ブリティッシュジェントルミント",
-        "url": ""
+        "url": "https://cdn.discordapp.com/attachments/1338348814171639859/1338490718527950848/IMG_4959.jpg?ex=67ab461f&is=67a9f49f&hm=b39c49d270fd73dba675ed38bb2938b26bd8dc50c656cf1334978df1c59c6127&"
       },
       {
         "name": "マニッシュシャツサーモンピンク",
@@ -1890,27 +1890,27 @@ let url ={
       },
       {
         "name": "アクアエレメンツぱたの",
-        "url": ""
+        "url": "https://cdn.discordapp.com/attachments/1338348814171639859/1338490440139276329/IMG_4950.jpg?ex=67ab45dc&is=67a9f45c&hm=abaf4af1c2f13ac1eb96e5950a6ff81ea06247775aa39719cb99e97d39b3fe77&"
       },
       {
         "name": "マーチングみゃむ",
-        "url": ""
+        "url": "https://cdn.discordapp.com/attachments/1338348814171639859/1338490517805338684/IMG_4952.jpg?ex=67ab45ef&is=67a9f46f&hm=9eb4c3a31de06da2bd661c10ac52357417747627745016d2c4363030e4690f94&"
       },
       {
         "name": "マーチングチムム",
-        "url": ""
+        "url": "https://cdn.discordapp.com/attachments/1338348814171639859/1338490565033201767/IMG_4953.jpg?ex=67ab45fa&is=67a9f47a&hm=a4a46448a6e98d797296e17a966b17a87e7824c5318256b18890b2eba6eb33f1&"
       },
       {
         "name": "マーチングはにたん",
-        "url": ""
+        "url": "https://cdn.discordapp.com/attachments/1338348814171639859/1338490621467431005/IMG_4955.jpg?ex=67ab4608&is=67a9f488&hm=f6f8a0e8d3544a640b2a22eb999716cc70550c414ae3d5b3b6ba9554dd29d60a&"
       },
       {
         "name": "マーチングきゃろん",
-        "url": ""
+        "url": "https://cdn.discordapp.com/attachments/1338348814171639859/1338490600378335232/IMG_4954.jpg?ex=67ab4603&is=67a9f483&hm=032532c678611c451a78df58b33fca2fb79ca1feb09cb87e2f38d9265160918d&"
       },
       {
         "name": "マーチングぱたの",
-        "url": ""
+        "url": "https://cdn.discordapp.com/attachments/1338348814171639859/1338490639838347356/IMG_4956.jpg?ex=67ab460c&is=67a9f48c&hm=30dbed3a851bd73086a745768539ec109efef60a3306520b32b0bef6fe0035f2&"
       },
       {
         "name": "エレガントジュエルひな",
@@ -2578,11 +2578,11 @@ let url ={
       },
       {
         "name": "サンシャインエレメンツ",
-        "url": ""
+        "url": "https://cdn.discordapp.com/attachments/1338348814171639859/1338488021414318120/IMG_4945.jpg?ex=67ab439c&is=67a9f21c&hm=6881a219770d8985766a95d48c92318600d4aba0e20f3795c4703081e39a20e2&"
       },
       {
         "name": "リバティーサンシャイン",
-        "url": ""
+        "url": "https://cdn.discordapp.com/attachments/1338348814171639859/1338488050069536798/IMG_4946.jpg?ex=67ab43a3&is=67a9f223&hm=d1c00a25cd11a78bd34c5ddb94c31d38f1ff96a837d449635eaf9be10af19deb&"
       },
       {
         "name": "フラワーオーバーレッド",
@@ -2666,7 +2666,7 @@ let url ={
       },
       {
         "name": "マナマナリューメ",
-        "url": ""
+        "url": "https://cdn.discordapp.com/attachments/1338348814171639859/1338488087684059146/IMG_4947.jpg?ex=67ab43ac&is=67a9f22c&hm=b0c34fe7092300392faf2b7c3900e53782e14e3493e2d217bebfa6c1419bb572&"
       },
       {
         "name": "はたらくおねえさん",
@@ -2710,7 +2710,7 @@ let url ={
       },
       {
         "name": "ジェニー キュートピンク",
-        "url": ""
+        "url": "https://cdn.discordapp.com/attachments/1338348814171639859/1338488124052996116/IMG_4948.jpg?ex=67ab43b4&is=67a9f234&hm=6e0deabf4216c0f9113eb6d3c166de1cc52210be1056c7489c6f0cbefb69b925&"
       },
       {
         "name": "フラワーオーバーブルー",
