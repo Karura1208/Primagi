@@ -2931,6 +2931,12 @@ let item ={
       "brand": "5"
     },
     {
+      "name": "メカニックビートヘブンズ",
+      "image": "https://pbs.twimg.com/media/FXD99GDaIAExOyk.jpg",
+      "Rare": "5",
+      "brand": "5"
+    },
+    {
       "name": "サイバーゲーム",
       "image": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/P04/img_codination_18_thumb.jpg?p=2312081000",
       "Rare": "2",
