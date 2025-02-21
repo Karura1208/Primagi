@@ -1,7 +1,7 @@
 let data = {
     "brand":[
         { "value":0,"name": "ラブリーメロディ"},
-        { "value":1,"name": "スパークスター"},
+        { "value":1,"name": "ビビッドスター"},
         { "value":2,"name": "レディアントアビス"},
         { "value":3,"name": "エターナルレヴュー"},
         { "value":4,"name": "エレクトロリミックス"},
